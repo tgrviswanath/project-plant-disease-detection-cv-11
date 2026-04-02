@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+cv-service/models/
+cv-service/data/
+node_modules/
+frontend/build/
+.DS_Store
